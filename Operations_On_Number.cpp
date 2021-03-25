@@ -1,5 +1,5 @@
-/* Assignment-1
- Write a program to perform
+/* 
+ Here you'll find Cpp code for following operations on number
 1. Find GCD 
 2. Reverse of a number
 3. Palindrome number
