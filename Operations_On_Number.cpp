@@ -1,9 +1,12 @@
 /* 
  Here you'll find Cpp code for following operations on number
+ # Menu driven program
 1. Find GCD 
 2. Reverse of a number
 3. Palindrome number
-4. Factorial */
+4. Factorial 
+
+Using Class , Class member, member functions */
 
 #include<iostream>
 using namespace std;
